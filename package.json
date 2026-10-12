@@ -2,7 +2,7 @@
   "name": "voting-dapp-react",
   "version": "0.0.0",
   "private": true,
-  "description": "",
+  "description": "Ganache желісінде MetaMask арқылы кандидаттарға дауыс беру қосымшасы.",
   "author": "arayuly",
   "type": "module",
   "main": "vite.config.js",
